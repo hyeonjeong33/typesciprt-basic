@@ -10,16 +10,14 @@
 
 ```js
 $ node -v
-v10.15.1
 $ npm -v
-6.4.1
 ```
 
 #### Install node.js version manager "n"
 
 ```js
 $ npm install -g n
-$ n 10.0.0  # set version
+$ n x.x.x  # set version
 $ n lts     # latest version
 ```
 
